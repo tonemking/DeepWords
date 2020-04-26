@@ -3,4 +3,4 @@ Writing and reading game using computer vision
 
 ## Demo
 
-[![Demo DeepWords](https://gifs.com/gif/deepwords-mvp1-4Q30x7)](https://youtu.be/g93FenagEAM)
+[![Demo DeepWords](https://j.gifs.com/4Q30x7.gif)](https://youtu.be/g93FenagEAM)
